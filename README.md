@@ -1,2 +1,2 @@
 # gex
-a golang based terminal for improved effeciency 
+a golang based terminal
